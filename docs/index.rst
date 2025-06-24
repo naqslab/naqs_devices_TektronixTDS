@@ -1,5 +1,11 @@
 TektronixTDS
 ============
+
+.. toctree::
+   :maxdepth: 2
+
+   Other naqs_devices <https://naqs-devices.readthedocs.io/en/latest/devices/>
+
 README
 ------
 .. include:: ../README.md
